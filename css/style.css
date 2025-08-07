@@ -57,7 +57,7 @@ header { width:700px; height:100%; position:fixed; top:0px; left:-420px; backgro
 
 /* contents내 썸네일 */
 #side .con p { width: 300px; height:100px; position:absolute; left:50px;}
-#side .con p em { display:inline-block; font:bold 16px/1.7 arial; color:#a0bd50; transform:skewX(40deg);}
+#side .con p em { display:inline-block; font:bold 16px/1.7 arial; color:#f579e4; transform:skewX(40deg);}
 #side .con p img { width:300px; height:70px; opacity:0.3; transition:all 0.5s;}
 #side .con p img:hover { opacity:1;}
 #side .con p:nth-child(1) { bottom:270px; transform: translateX(200px); transition:all  0.4s;}
